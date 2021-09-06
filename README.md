@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=F1F0EC&height=100&section=headerr&text=Inryu%20&fontSize=30&animation=fadeIn&fontAlignY=45&desc=Interested%20in%20web/app%20development%20👩🏻‍💻🔥&descAlignY=70&fontColor=514E53)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F1F0EC&height=100&section=headerr&text=Inryu%20&fontSize=30&animation=fadeIn&fontAlignY=45&desc=Interested%20in%20web/app%20development%20👩🏻‍💻🔥&descAlignY=70&fontColor=514E53)
 
 <h3 align="center"> 📓 Tech Stack 📓 </h3>
 
