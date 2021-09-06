@@ -1,16 +1,50 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=headerr&text=Inryu%20&fontSize=45&animation=fadeIn&fontAlignY=45&desc=Interested%20in%20web/app%20development%20👩🏻‍💻🔥&descAlignY=70)
 
-<!--
-**Inryu/Inryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> 📓 Tech Stack 📓 </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp 
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp 
+<br>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp 
+<br>
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h3 align="center"> 🪄 Blog 🪄 </h3>
+
+<div align="center" style="text-align:center">
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=PS)](https://velog.io/@inryu)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=reactnative)](https://velog.io/@inryu)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=openapi)](https://velog.io/@inryu)
+
+</div>
+
+<br>
+<h3 align="center"> 👀 About Me & Contact 👀 </h3>
+<p align="center">
+  <a href="https://velog.io/@inryu"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@inryu"/></a>&nbsp
+  <a href="https://www.instagram.com/inryuuu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/inryuuu/"/></a>&nbsp
+  <a href="mailto:dellintel1717@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dellintel1717@gmail.com"/></a>
+</p><br>
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInryu%2FInryu&count_bg=%23D5C9DD&title_bg=%23B0ADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+</div>
