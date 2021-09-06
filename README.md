@@ -25,7 +25,7 @@
 </p>
 
 <br>
-<h3 align="center"> 🪄 Blog 🪄 </h3>
+<h3 align="center"> 🧸 Blog 🧸 </h3>
 
 <div align="center" style="text-align:center">
 
@@ -35,7 +35,7 @@
 </div>
 
 <br>
-<h3 align="center"> 👀 About Me & Contact 👀 </h3>
+<h3 align="center">🧤 About Me & Contact 🧤 </h3>
 
 <div align="center">
 
