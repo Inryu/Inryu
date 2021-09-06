@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E5C1BD&height=120&section=headerr&text=Inryu%20&fontSize=30&animation=fadeIn&fontAlignY=45&desc=Interested%20in%20web/app%20development%20👩🏻‍💻🔥&descAlignY=70&fontColor=514E53)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F0EEE9&height=150&section=headerr&text=Inryu%20&fontSize=30&animation=fadeIn&fontAlignY=45&desc=Interested%20in%20web/app%20development%20👩🏻‍💻🔥&descAlignY=70&fontColor=514E53)
 
 <h3 align="center"> 📓 Tech Stack 📓 </h3>
 
@@ -54,3 +54,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInryu%2FInryu&count_bg=%23D5C9DD&title_bg=%23B0ADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F0EEE9&height=100&section=footer)
