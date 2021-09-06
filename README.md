@@ -29,7 +29,6 @@
 
 <div align="center" style="text-align:center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=PS)](https://velog.io/@inryu)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=reactnative)](https://velog.io/@inryu)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=openapi)](https://velog.io/@inryu)
 
