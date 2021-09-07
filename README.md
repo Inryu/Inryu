@@ -37,11 +37,17 @@
 <br>
 <h3 align="center">🧤 About Me & Contact 🧤 </h3>
 
+<p align="center">
+  <a href="https://inryuuu.notion.site/Inryu-Shin-39408b0334ac467f8f391b6bb435cda2"><img src="https://img.shields.io/badge/✨PORTFOLIO✨-FF7F7F?style=flat-square&logoColor=white&link=https://inryuuu.notion.site/Inryu-Shin-39408b0334ac467f8f391b6bb435cda2"/></a>&nbsp
+</p><br>
+
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inryu)](https://github.com/Inryu)
 
 </div>
+
+
 
 <p align="center">
   <a href="https://velog.io/@inryu"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@inryu"/></a>&nbsp
